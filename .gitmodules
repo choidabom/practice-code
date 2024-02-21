@@ -1,3 +1,6 @@
 [submodule "spring-boot-cookie"]
 	path = spring-boot-cookie
 	url = https://github.com/choidabom/Spring-Boot-Cookie.git
+[submodule "react-fabric-practice"]
+	path = react-fabric-practice
+	url = git@github.com:choidabom/react-fabric-practice.git
